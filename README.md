@@ -1,5 +1,7 @@
 # GarbelGorbel
 quickly generate stylish reports for, well, whatever you want!
+
+Note: as of 6/5 2024 the repo has been moved to the pyrret labs org until development of GarbelGorbel continues.
 ## Modes
 GarbelGorbel can work in two modes:
 - API Mode: Generate the report based on the request body and return the report or a url where the report is hosted.
